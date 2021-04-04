@@ -1,0 +1,118 @@
+“In an economy where the only certainty is uncertainty, the one sure source of lasting
+competitive advantage is knowledge!”
+
+Knowledge economy
+- organizational performance dependent on the production, diffusion, and use
+of knowledge.
+Knowledge-based firm theory
+- knowledge is the major source of competitive advantage of a firm
+
+Wisdom
+• is an evaluated / deep understanding
+➢identify best approach to solve a problem
+
+Knowledge
+• is understanding of rules to interpret information
+➢rules & understanding of relationships; answers "how" questions
+
+Knowledge
+- mix of framed experience, values, contextual information, and expert insight
+- provides framework for evaluating and incorporating new experiences and information
+- originates and is applied in the mind of knowers
+- understanding of rules needed to interpret information
+- appropriate collection of information, such that its intent is to be useful
+- characteristics:
+	- using knowledge does NOT consume it
+	- transferring knowledge does NOT result in losing it
+	- knowledge is abundant, but ability to use it is scarce
+- embedded in documents, repositories, routines, processes and norms
+
+Objectives
+- Knowledge Management
+	- identify, capture, evaluate, retrieve and share all of an enterprise’sinformation asset
+- Knowledge Sharing
+	- individual provides knowledge to others
+	- social process, not only a question of management
+
+Alignment of Knowledge and Strategy
+- keep knowledge gap minimal
+
+What to manage in KM
+- 70% People: attitudes, sharing, innovation, team work, motivation,
+organization, communities
+- 20% Process: KM maps, workflows, integration, best practices, business
+intelligence, standards
+- 10% Technology: data stores, networks, internet, data mining & analysis,
+decision tools, automation
+→ Learning
+
+Business Process as area of Application
+- Input: knowledge domain as resource
+- output: knowledge as product / service
+
+Strategies for KM: 
+- Communication (between groups) & Codification
+
+Four Types of Knowledge Conversion
+- Socialisation (experienced knowledge) tacit -> tacit
+- Externalization (conceptual knowledge) tacit -> explicit
+- Internalisation (operational knowledge) explicit -> tacit
+- Combination (systemic knowledge) explicit -> explicit
+
+Tacit knowledge (~ 90%: Eisberg unter Wasser)
+- knowledge extremely difficult to make explicit (implied)
+- subjective, cognitive
+- highly personalized
+- difficult to formalize
+- sticky knowledge
+Explicit knowledge (~ 10%: Spitze vom Eisberg)
+- set out in tangible form (physical)
+- e.g. policies, goals, strategies, papers, reports
+- codified/leaky knowledge
+
+Spiral of Organizational Knowledge Creation
+- multiply knowledge by transferring to others through externalization &
+internalization via combination & sozialization
+- info might get lost
+
+Core Processes of Knowledge Management
+Knowledge Objectives
+- what kind of knowledge important today as well as in the future with a knowledge-based competitive advantage
+- where in the organization is what kind of knowledge needed
+- strategic planning of organizational knowledge base
+- Goals:
+	- normative: knowledge oriented corporate culture
+	- strategic: retain / establish knowledge (organizational structure, management system)
+	- operative: execution of strategic knowledge goals, define operational goals for day-to-day business
+	
+Knowledge Identification
+- how to create transparency about existing knowledge
+- task: analysis and description of knowledge environment
+- challenge: overview of internal and external data, information, and capabilities
+- problems: inefficiency, uninformed decisions, duplication
+- approaches
+	- knowledge bearer maps (research methods, publications, technical, teaching)
+	- knowledge balance sheets
+	- process modelling
+	
+Knowledge Acquisition
+- what capabilities to acquire from external sources
+- task: what knowledge to acquire through recruiting or acquisition (consultants)
+- challenge: ensure best possible access to external knowledge
+- problems: unused potential for KA in existing cooperations
+- approaches
+	- hiring
+	- consulting
+	- outsourcing, mergers, acquisitions
+	
+Knowledge Development
+- build up new knowledge
+- task: build new knowledge additional to external acquisition
+- challenge: develop new capabilities, better ideas, powerful processes
+- problems: knowledge creation very difficult in areas without expertise (R&D)
+- approaches
+	- learning environment (create freedom, reduce workload, …)
+	- room for experiments
+	- workshops
+- example: MOOC (online courses); data warehouse, process mining
+

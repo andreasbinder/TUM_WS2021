@@ -1,0 +1,174 @@
+Security
+- absence of unbearable risks
+
+Risk
+- RE (risk exposure) = probability(adverse future event) * magnitude(event)
+- RRL (risk reduction leverage) = (REbefore - REafter) / cost of intervention
+- probability that particular adverse event occurs during stated period of time
+- event results from a particular challenge
+
+Information Security
+- information that companies collect , store, manage and transfer
+- organizational asset
+- adds value to business
+- needs to be protected
+- often held electronically
+- transmitted using electronic means
+→ Growing dependence on information systems, shared networks and distributed
+services (cloud computing)
+→ organizations more vulnerable to security threats
+
+Information Security is the practice of defending information from ...
+- … unauthorized access
+- … use
+- … disclosure
+- … disruption
+- … modification
+- … inspection
+- … recording
+- … destruction
+→ general term used regardless of the form the data may take
+
+Basic services
+- confidentiality: information not available or disclosed to unauthorized individuals, entities, processes
+	- encryption of stored and transmitted data
+	- access control
+	- notification in case of data breach
+- data integrity: data has not been altered or destroyed in unauthorized manner
+	- hash-functions
+	- back-ups
+	- access control (email signatures, transmission certificates)
+	- validating inputs
+- authentication: verify identity
+	- user’s access credentials (password, fingerprint, chip cards)
+	- certificates
+- availability: reliable access at the right time on information and IS
+	- data/server replication
+	- redundancy
+	- load balancing
+	- SLAs with external/internal providers
+	
+Higher services
+- accountability: trace activities on a system to individuals who may then be held responsible for their actions
+	- auditing & logging
+	- cross-department collaboration
+	- cybersecurity awareness training (legal standards)
+- data authenticity: data being genuine and able to be verified and trusted; confidence in validity of data itself and its authorship
+	- certificates for the website
+	- keyed-hash message authentication code (HMAC)
+- non repudiation: way of guaranteeing that message sender cannot deny having sent a message
+	- message authentication codes
+	- digital signatures
+	- auditing & logging (time-stamp, verify registrations)
+- access control: granting authorized entities to use information, while preventing access to non-authorized entities
+	- definition of roles, attributes or rule
+	
+Understand privacy and discuss key changes of the GDPR
+Privacy
+- “contextual integrity”
+- sharing information outside of socially agreed contextual boundaries
+- decision privacy
+	- about person’s decisions and choices
+	- private actions
+	- protect persons decisions from external interferences
+- information privacy
+	- ability of a person to control, edit, manage and delete information about themselves
+	- decide how and to what extent information is communicated to others
+	
+Impacts and Issues
+As data can be stored and processed in the “Exabyte” level and more connectivity
+and interaction is possible, information is ubiquitous.
+
+Threats
+- Internet
+	- use of cookies to store online behavior
+	- cloud computing: access data and usage statistics (vendor), ambiguities regarding legal issues
+- Big Data
+	- profile users, identify patterns and predict interests & behavior
+	- eventually result in future discrimination and inequalities
+- Social Media
+	- steering users’ behavior of sharing (like-button)
+	- “fake” news vs. user generated content
+	- privacy features only as build-in ‘add-ons’ rather than by design
+	- exchange personal data for the benefits of using services
+- Internet of things
+	- automatic adaption of environment to user
+	- usage of explicit preferences and implizit observations
+	- user autonomy as central theme in considering privacy implications
+
+EU General Data Protection Regulation (GDPR)
+- applied EU-wide since May 25 2018 in national data protection laws
+- aim: giving control over personal data
+key changes
+- increased territorial scope
+- penalties
+- consent
+- breach notification
+- right to access
+- right to be forgotten
+- data portability
+- privacy by design
+- data protection officers
+
+Risk categorization
+- known risks:
+	- can be uncovered
+	- carefully evaluate project plan, business and technical environment of project
+	- inspect other reliable sources
+- predictable risks:
+	- extrapolated/hochrechnen from past project experiences (past turnover)
+- unpredictable risks:
+	- can and do occur
+	- extremely difficult to identify in advance (zero-day attack)
+	
+Risk Strategies
+- Reactive: “don’t worry, I’ll think of something”
+	- nothing is done about risks until something goes wrong (fire fighting)
+	- crisis management
+	- often used
+- Proactive:
+	- avoid risk
+	- contingency plan to handle unavoidable risks in a controlled manner
+→ find balance between risk occuring and the maximum bearable damage
+→ pareto principle: optimize situation without worsen any other component
+→ diminishing marginal benefits: the higher the level of security every additional
+effort only increases security a little bit more
+
+Risk Identification
+- transfers uncertainties in a set of clearly defined risks
+- tools: expert interviews, brainstorming, analogies, risk registers
+Risk Analysis
+- assesses identified risks regarding their …
+- ... probability of occurrence
+- ... (negative) impact on the project/organization
+- tools: expert interviews, cause-and-effect analysis, decision trees, threat tree
+Risk Handling
+- evaluates, plans, and executes strategies for the analyzed risk
+- tools: risk strategy list, decision tables/trees, cause-and-effect analysis
+exp: risk strategy list
+avoid …
+	- … poor estimating, scheduling & planning
+	- … ineffective stakeholder management
+	- … insufficient risk management
+	- … insufficient planing
+	- … shortchanging quality assurance
+	- … weak personnel and/or team issues
+	- … insufficient project sponsorship
+Risk Monitoring
+- tracks risk evolution over time
+- tools: status reports, to-be analysis, risk visualizations
+
+Characteristics
+1. Project Size
+- measurable in workers/years of effort
+- interpersonal communication (exponential growth with team size)
+2. Company-relative technology
+- degree of technical experience
+- education/familiarization costs for new things (tools, concepts, hardware, software, communication, …)
+- expect unexpected (unplanned) interface problems
+3. degree of inherent structure
+- well-defined project outputs ?!
+- do developers understand what is requested (implement)?
+- have they already built a system like this before?
+
+

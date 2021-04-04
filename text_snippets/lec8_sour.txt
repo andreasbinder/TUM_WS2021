@@ -1,0 +1,199 @@
+“The reason that we want someone else to do work for us is that they are experts”
+
+Outsourcing
+- = outside + resource + using
+- execution of certain in-house tasks are completely transferred …
+	- … to one/several external companies
+	- … for certain period of time
+	- … based on conceptual agreements
+- IT context: single or whole IT-tasks are given to another company
+- make or buy ?
+
+Client Perspective - Reasons
+- Cost: transparency (pay per use); cost reduction
+- Personnel: avoid lack of qualified IT-employees; more independent from
+single employees
+- Risks: transfer risk to outsourcing vendor; shift of risks from complexity in
+application and technology dynamics
+- Concentration: IT focus on business value and strategic information systems
+- Finances: from fixed to variable costs (increased liquidity); avoid high
+investments
+- Knowledge: access specialized knowledge & novel technology; more
+discipline in knowledge conservation (documentation)
+
+Risk Client
+- Cost: switching cost; increased coordination & communication cost; no cost
+reduction as expected; lack of transparency; impossible to control vendors’
+prices
+- Personnel: loss of key employees & knowledge; motivation loss of remaining IT-employees; legal issues
+- Knowledge: know-how transfer; competitive advantage; increasing 
+outsourcing results in loss of IT-competence and know-how
+- Technology: fixed commitment to vendor’s technology (vendor lock-in); danger of too much standardization
+- Privacy: maintain privacy of confidential data dependent on vendor
+- Return to own IT: might not be possible (long-term commitment of contracts);
+rebuild know-how and whole IT department
+
+Vendor Perspective
+- higher quality services can be provided at lower cost (maintain expertise in technologies)
+
+Chronology
+• Backsourcing
+	– Bring previously outsourced jobs back to be performed internally
+• Insourcing
+	– Assign a project/ found a fully owned
+	subsidiary within a company rather
+	hiring a third party
+• Outsourcing
+	– Individual internal tasks are handed over to one or more other companies for
+	a defined period of time on the basis of a contractual agreement
+
+Sourcing Object
+- ca. 1960-80: IT Infrastructure Outsourcing (ITO) → Hardware/Software
+- ca. 1980-90: Application Service Providing (ASP) → Applications
+- since 1990: Business Process Outsourcing (BPO) → Business functionality
+- in the beginning more maturity and experience, later more complexity
+- core competencies to retain in own company:
+	- development of strategy & architecture
+	- establishment of standards
+	- capability to evaluate outsourcing options
+	- repository of all installed applications and hardware
+	- consultancy on cost/benefit, strengths/weaknesses, risks/potential of IT
+	- evaluate architecture fit of new hardware/software
+	- monitor old systems (+ retirement, replacement)
+→ exp: deutsche bank & IBM (management Teil komplett bei Deutsche Bank)
+
+Vendor Configuration
+- different Customer-Vendor-Relationship (e.g. Number of vendors, which services, part-inhouse)
+
+Pricing
+- Fixed-Price
+	- service priced with a flat charge (lump sum)
+	- Pro: easy to budget and control costs
+	- Contra: only feasible if costs are easy to forecast; higher costs; risk for
+	conflicts (contract); additional services charged separately
+	- e.g. 2.000.000€ for running call center
+- Cost-based
+	- service provider bills cost (Time & Material) + profit margin
+	- Pro: beneficial if demand varies and if service delivery costs are
+	difficult to forecast
+	- Contra: high controlling costs to ensure cost-efficient work; important
+	to know service provider costs
+	- e.g. service cost + 5% profit margin / + 1.000.000€ profit
+- Transaction-based
+	- service fee per transaction or unit
+	- Pro: flexibility regarding demand variance; possibility for volume
+	discounts; cost transparency and accountability (user, SBU)
+	- Contra: demand forecast to manage costs; potentially infinite resource
+	availability
+	- e.g. 5€ per call to call center
+- Performance-based
+	- pricing based on pre-agreed business outcome (fixed+variable)
+	- Pro: encourages collaboration and creative problem-solving; affords
+	vendor greater freedom in achieving the predefined results
+	- Contra: hard to determine performance (external factors); hard to find
+	service vendors for high objectives; high downside risk of
+	over-ambitious solutions (risk-sharing)
+	- e.g. 5.000.000€ + 30% of costs saving to status quo
+	
+Location
+	- Headquarter
+	- Onsite: on own company premises
+	- Onshore: same country
+	- Nearshore: same continent
+	- Offshore: other country or continent
+
+Client Perspective - Stage Model
+Phase 1: decision process
+- intelligence - why: determinants, advantages, disadvantages
+- design - what: outsourcing alternatives (degree ownership, degree outsourcing)
+- choice - which: guidelines, procedures and stakeholders of decision initiation, evaluating and making
+Phase 2: implementation
+- implementation
+	- how: vendor selection, relationship building and management
+	- outcome: experiences/ learning, types and determinants of success
+	
+Vendor Perspective - Process Model
+Discovery
+- development market opportunities
+Definition
+- form formal project team
+- define scope of work
+Confirmation
+- define negotiation strategy
+- prepare performance measures
+Transition
+- develop transition phase
+Execution and Management 
+- execute outsourcing service
+
+Cloud Computing
+- IT deployment model
+- based on virtualization
+- resources (infrastructure, applications, data) deployed via internet as distributed service
+- one/several service providers
+- services scalable on demand & priced on pay-per-use
+
+Types
+- Private Cloud within Organization A
+- Public Cloud includes Organizations A,B and C
+- Hybrid Cloud within Organization A combined with Public Cloud (A,B,C)
+- Community Cloud with Organization A,B and C within a Community
+→ Cloud Computing can lead to complex outsourcing relationships
+
+Offshoring - Outsourcing
+Definition 
+- getting work done in a different country/continent
+- contracting work out to an external organization
+Risks 
+- transfer jobs to other countries
+- geopolitical
+- language differences
++ availability of skilled
+people (global talent pool)
++ getting work done faster
++ specialized skills
+- poor communication
+- misaligned interests of
+clients and vendors
+- reliance on third parties
+- lack of in-house knowledge
+(critical business operations)
+Benefits + lower costs
++ cost efficiencies
++ labor flexibility
+
+Offshoring Drivers
+- External:
+	- lower trade barriers
+	- global offering of services
+	- significant labor cost advantages in offshore regions
+	- real-time global collaboration (communication technologies; internet)
+- Internal:
+	- shorter product life cycles (time-to-market)
+	- limited IT budgets (cost reduction)
+	- higher IT-service standards
+	- increasing experience in IT outsourcing
+	
+Risks of Offshoring: Client Extra Costs
+- cost savings through offshore outsourcing = 
+	domestic client costs without/ prior to offshore outsourcing
+	- contract-based payment to vendor
+	- client extra cost for managing contract/vendor
+	
+Client Extra Cost Categories
+- Specification:
+	- explain & define what services are required
+	- identify constraints on system operations and development
+- Design:
+	- describe software structure (data, interfaces, algorithms, …) to be implemented
+- Knowledge transfer:
+	- communicate knowledge from client to vendor organization
+	- vendors apply knowledge
+- Coordination:
+	- integrate and link together client and vendor resources
+	- accomplish collective set of tasks
+- Control:
+	- ensure vendors’ actions
+	- should be consistent with achieving client's desired objectives
+	
+	

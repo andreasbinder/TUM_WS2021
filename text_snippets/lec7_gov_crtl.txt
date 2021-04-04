@@ -1,0 +1,169 @@
+Relationship IT Governance & IT Controlling:
+- IT Governance : ensures final objectives are met
+- IT Controlling: ensures critical success factors are met
+- Design variables (e.g. Processes, IT) → Success factors (e.g. customer
+service, time to market) → Objectives (e.g. shareholder value) ←
+Competition, Economy, Regulations
+
+Controlling:
+- management concept for future oriented corporate and profit controlling
+- strategy for safeguarding corporate existence
+- provides essential decision support
+
+IT-Controlling:
+- control IT of an organization
+- formal objectives (efficiency, effectiveness)
+- content objectives (quality, functionality, schedule adherence)
+- also coordination function
+
+IT Controlling functions / IT process model:
+- Project portfolio controlling: Make selection of fitting IS project transparent
+	- it strategy development
+	- development of IT strategy and master plan
+	- definition of hardware, software and security standards
+	- planning of IT portfolios and priorities
+- Project controlling: execute projects correctly (plan, manage, monitor costs, schedules, services)
+	- it development
+	- development and maintenance of individual software
+	- implementation of standard application software
+- Product and infrastructure controlling: Monitoring of product use through product life cycle (handle operation)
+	- it operations
+	- compilation and operation of IT infrastructure (networks, central server) 
+	- service and user support
+	- supply of desktop services
+	
+1. Strategic:
+Project portfolio controlling:
+- Life-cycle:
+	- it strategy development
+	- it project proposals
+	- it portfolio analysis
+	- it portfolio adjustment
+	- it portfolio communication
+	- it portfolio controlling
+- Selection Criteria:
+	- Benefits: Financial/Non-Financial (e.g IT advantages)
+	- Simplicity of Implementation: Project Risk / Project Complexit
+Project Controlling & Product, infrastructure controlling:
+- Balanced Scorecard:
+	- Performance measurement framework, translates organizations strategy to set of performance measures
+Balanced IT Scorecard
+	- CSF: Critical Success Factor, vital for strategy, not measurable
+	- KPI: Key Performance Indicator, measurable
+	- Goal CSF KPI Targets Initiatives
+
+2. Operative:
+Project Controlling:
+- IT project controlling:
+	- Cost: estimation (function point analysis or COCOMO), reporting
+	- Time: milestones, Gantt Chart
+	- Quality: quality gates, customer reviews
+Project Controlling & Product, infrastructure controlling:
+- Metrics System:
+	- Metric = quantitative judgement on planned or actual value of a criteria
+	of a steering object
+	- types: steering, information, benchmarks, quantitative/qualitative
+	- Domain with Top metric gives objectives for sub-domain, subdomain
+	gives measurement of metrics for top-domain (KPI to calculate other
+	KPI)
+	- e.g. Economic Value Added
+	
+Corporate Governance:
+- corporate virtues ( for shareholders) : limiting liability of investment, buy & sell ownership interests easily
+- Potential misalignment of interests between shareholders and managers → separation of ownership and Control
+- system which directs and controls business corporations
+- structure specifies distribution of rights and responsibilities among different participants (board, manager, stakeholders)
+- define rules and procedures for decision making on corporate affairs
+- provides structure to set company’s objectives and monitor performance
+
+Corporate Governance & IT Governance
+- Business dimension: Business/Corporate Strategy, Corporate Governance
+- IT dimension: IT Strategy, IT Governance
+
+IT Governance
+- represents framework for decision rights & accountabilities
+- encourage desirable behavior in the use of IT
+- systematically determine who makes decision (decision right), who has input
+to a decision (input right), and how these people are accountable for their role
+Design of IT Governance
+- Business Goals: 
+	- Build current and future shareholder/stakeholder value 
+	- at An acceptable level of risk 
+	- by Engaging and aligning business leadership
+- IT Governance Goals
+	- Establish / Enforce Accountability for IT Operational Performance
+	- Establish / Enforce Accountability for IT Projects
+	- Align IT Investment to Business Strategy and Objectives
+	- Manage IT Related Risks
+	- Involve Key Business Stakeholders
+	- Build Decision Making Transparency
+- IT Governance Core Components
+	- Structure, Accountability, Authorities
+	- Targets and Feedback
+	- Compliance and Reinforcement
+	- Process, Participation, and Timing
+→ Good IT governance draws on corporate governance principles to manage and
+use IT to achieve corporate performance goals
+
+COBIT:
+- Control Objective for Information and related technology
+- Framework for governance & management of enterprise information & technology
+- Defines 7 Components to build & sustain governance system
+- which decisions, how, by whom?
+- defines design factors
+- governance & management objectives
+→ No silver bullet, need to tailor
+
+COBIT Principles 2019
+1. Provide Stakeholder Value:
+	- governance needed to satisfy stakeholder needs, to generate value
+	- value is balance among benefits, risk and resources
+	- need actionable strategy governance system to realize value
+	- Steps
+		- stakeholder drivers and needs
+		- enterprise goals
+		- alignment goals
+		- governance and management objectives
+2. Holistic Approach:
+	- governance system for enterprise IT is built from number of
+	components that can be of different types and work together
+	- components
+		- processes 
+		- organizational structures
+		- principles, policies, procedures
+		- information
+		- culture, ethics and behavior
+		- people, skills, competencies
+		- service, infrastructure, application
+3. Dynamic Governance System:
+	- when design factors changed, need to consider impact on enterprise
+	governance
+	- dynamic for future-proof system
+4. Governance distinct from management:
+	- able to clearly distinguish between governance and management
+	activities
+	- Governance: stakeholder needs, balances & agreed-on enterprise
+	objectives; direction set through prioritization and decision making;
+	monitor performance and compliance against agreed-on direction
+		→ responsibility of board of directors
+		→ Evaluate, Direct and Monitor (EDM)
+	- Management: plans, builds, runs, and monitors activities; in alignment
+	with direction set by governance body; achieve enterprise objectives
+		→ responsibility of executive management (CEO)
+		→ Align, Plan and Organize (APO); Build, Acquire and Implement
+		(BAI); Deliver, Service and Support (DSS)
+5. Tailored to Enterprise Needs:
+	- tailor by using set of design factors
+	- Governance system design workflow
+	1. Enterprise context and strategy
+	2. determine initial scope of governance system
+	3. Refine scope of governance system
+	4. conclude governance system design
+6. End-to-End Governance System:
+	- governance should cover enterprise end-to end
+	- focus on all I&T processing to achieve goal
+	- emphasis on enterprise-wide view of I&T governance
+		- impossible to separate business & IT (integral part of enterprise
+		governance, cover full end-to-end business and IT functional
+		areas)
+	
