@@ -1,0 +1,133 @@
+Market-Based View (MBV) - Porter’s Five Forces
+- new market entries (barriers to entry)
+- supplier (bargaining power)
+- customer (bargaining power)
+- substitute products/ services
+- competition within market
+Implications
+- companies search for attractive markets and position yourself within
+competition: choose generic strategy, influence direct market surroundings
+- Starting point: objectives that should be reached
+- “Structure follows strategy”: companies’ organizational structure should
+follow the targets
+- emphasize the role of external factors (attractiveness of industry, competitive
+forces) for business success
+
+Cost Leadership: striving to be the low-cost producer in an industry
+- effective if …
+	- … market is composed of many price-sensitive buyers
+	- … there are few ways to achieve product differentiation
+	- … buyers do not care much about differences (brands)
+	- … there is a large number of buyers with high bargaining power
+(verhandlungsmacht)
+- idea: drive competitors out of the market
+- gain market share and sales
+- underprice competitors
+- offer better cost-value ratio (similar price, but better value)
+Differentiation: produce products that are considered unique
+- allows a firm to …
+	- … charge higher prices for its products
+	- … gain customer loyalty
+- risk: unique product may not be valued highly enough by customers to
+justify the higher price
+Focus on Niche: producing products and services that fulfill the needs of small
+groups of customers
+- effective if …
+	- … the niche is profitable and growing
+	- … industry leaders are uninterested in niche
+	- … industry offers several niches
+	- … there is little competition in the niche segment
+- low-cost focus strategy
+	- offers products/services a small range (niche) of customers at the
+	lowest price available
+- best-value focus strategy
+	- “-” at the best price-value available
+	- called “focused differentiation”
+	
+Resource-Based View (RBV)
+- 2nd alternative theory for competitive advantage
+- Success & failure depends on companies’ internal capabilities
+- core competencies & resources responsible for success/competition (starting
+point for strategy development)
+- recommendations for core competency management
+	- determine existence of core competencies and analyze their potential
+	- keep tangible resources up to date
+	- develop intangible resources/capabilities
+- VRIN
+	- V = Valuable: enable firm to implement strategies (increase efficiency
+	and effectiveness)
+	- R = Rare: not available to other competitors
+	- I = Imperfectly imitable: hard to implement by others
+	- N = Non-substitutable: can not be replaced by some other non-rare
+	resource
+- Dynamic Capabilities: relate to change in organization, 3 primary clusters of
+competencies
+	- Sensing: Identification/Assessment of opportunity
+	- Seizing: Mobilization of resources
+	- Transforming: Continued renewal
+	→ source for long term competitive advantage (renewal of components
+	following vision)
+- Components of RBV:
+	- Vision
+	- Dynamic Capabilities: Sense innovation, Adapt resources &
+	competencies in changing environment → Knowledge (how transform
+	e.g. electric)
+	- Competencies: use resources efficiently → Knowledge (e.g. how use
+	IT)
+	- Resources: VRIN (e.g. assets, capital, structure) → Knowledge,
+	Information (asset) (e.g. customer data & manager process knowledge)
+- Components (Resources, Competencies, Product) 
+
+Strategic Fit / Business IT Alignment
+- Porter: Strategic fit among many activities is fundamental not only to competitive
+advantage but also to the sustainability of that advantage. It is harder for a rival to
+match an array of interlocked activities than it is merely to imitate a particular
+sales-force approach, match a process technology, or replicate a set of product
+features.
+- Reich: Strategic alignment is the extent to which the business mission, objectives, and
+plans are supported by the IS mission, objectives, and plans
+- Henderson: Alignment is the degree of fit and integration among business strategy, IT
+strategy, business infrastructure, and IT infrastructure.
+
+Strategic Alignment Model
+- external
+	- business strategy: Business Scope, Distinctive Competencies, Business Governance
+	- IT strategy: Technology Scope, Systemic Competencies, I/T Governance
+- internal	
+	- Organizational Infrastructure and Processes: Administrative Infrastructure, Processes, Skills
+	- I/S Infrastructure and Processes: Architectures, Processes, Skills
+	
+IT Alignment in Multi-Business Organizations
+- Corporate Strategy: capabilities to compete as an organisation
+- Corporate IT Platform Strategy: shared IT capabilities across the organisation
+- Strategic Business Unit strategy: capabilities to compete in individual markets
+- Strategic Business Unit IT Portfolio Strategy: IT portfolio capabilities within each Strategic Business Unit
+- Functional Alignment (R1): (between Corporate Strategy and Corporate IT Platform Strategy)
+	- Corporate strategy provides boundaries for IT platform strategy
+	- Corporate IT Platform needs to align with strategy
+- Functional Alignment (R2): (between Strategic Business Unit strategy and Strategic Business Unit IT Portfolio Strategy)
+	- SBU IT portfolio needs to support business strategy
+	- SBU strategy provides requirements for SBU IT portfolio
+- Structural Alignment (R3): (between Corporate IT Platform Strategy and Strategic Business Unit IT Portfolio Strategy)
+	- Corporate iT Platform leverages synergies shared across IT services
+	- Independence btw SBU IT Portfolios (if relevant for more than one SBU
+	move to IT Strategy)
+- Structural Alignments (R4):
+	- Corporate strategy provides boundaries for strategies of SBU
+	- SBU strategy has high degrees of freedom within corporate strategy
+	boundaries
+- R5: between Corporate IT Platform Strategy and Strategic Business Unit strategy
+	- SBU strategies do not define corporate platform strategy
+	- IT capabilities should not meet individual SBU strategy requirement →
+	Possible Misalignment
+- R6: Corporate Strategy and Strategic Business Unit IT Portfolio Strategy
+	- Corporate strategy does not specify IT capabilities for SBU IT portfolios
+	- SBU IT portfolios should NOT include IT capabilities to be shared
+	across SBUs → Possible Misalignment
+Two paths to temporal alignment in Multi-Business Organizations
+• Path 1 (P1): sequence of strategic choices to develop the shared IT platform capabilities.
+between Corporate Strategy and Corporate IT Platform Strategy
+• Path 2 (P2): sequence of strategic choices to develop SBU IT application capabilities.
+(typical top-down, business-led approach for alignment)
+between Corporate Strategy and Strategic Business Unit strategy and Strategic Business Unit IT Portfolio Strategy
+

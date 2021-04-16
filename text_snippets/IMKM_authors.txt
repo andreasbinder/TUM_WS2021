@@ -1,0 +1,263 @@
+Lec1
+IS, IT and IM Strategy Earl (1989, p. 65)
+
+Lec2
+Evolution of Technology – Infrastructural vs. Proprietary 
+- Carr, N. G. (2004).
+IT value challenges 
+- Kohli & Grover (2008, p.27)
+IT/ IS -Potentials and their Organizational Benefit 
+- Davenport (1993, p. 51); Vial (2019, p. 132)
+Contextual Factors influencing Business Value of IT/IS 
+- Melville et al. (2004);
+- Osterwalder, A., & Pigneur, Y. (2010)
+The Path to Communicating IT/ IS Value for a CIO
+- Hunter & Westerman (2009, p.7)
+Digital Business Strategy
+- Bharadwaj et al. (2013)
+When you cannot measure, your knowledge is of a meager and unsatisfactory kind.
+- William Thomson
+Performance Measures, Level of Measurement, A Taxonomy of IT/ IS Business Value Research
+- Schryen (2010)
+The Business Value Process
+- Sward D. (2006)
+Approaches to assess IT/ IS Value and Benefit
+- Adapted from Irani (2001) in: Krcmar (2015), p. 482
+Example criteria for assessing IT/ IS Value
+- A Model of Layers for Assessing IT/ IS Innovations in Organizations, adopted from Schwabe (1999, p.629) in: Krcmar 2015, p.484
+
+Lec3
+Strategy and Strategic Management
+- Smith/ Arnold/ Bizzell (1986, p.4)
+Porter's Five Forces of the Market-based view (MBV)
+- Adapted from Porter (1980), Krcmar (2015, 411)
+Generic Strategies according to Porter
+- Adapted from Porter (1980)
+Resource-based view (RBV)
+- Barney, J. (1991), Burr (2003)
+Dynamic capabilities
+- Teece, D. J. (2013)
+Relationship between Corporate Strategy and Information Systems
+- Krcmar (2015), p. 396
+Strategic Alignment Model
+- Henderson/Venkatraman (1999)
+IT Alignment in Multi-Business Organizations
+- Reynolds & Yetton (2015)
+Implications of Business IS Strategy Alignment
+- Gerow et al. (2014, p. 1178)
+
+Lec4
+Strategic Information Systems (SIS)
+- Krcmar (2015, p. 409)
+System Categories for Strategic Information Systems
+- Krcmar (2015, pp. 409)
+McFarlan’s Strategic Grid – Determining the impact of information systems on strategy
+- Applegate et al. (2004, pp. 34)
+Adaptability Gap in a World of Digital Business, The Business Model as conceptual tool of alignment
+- Al-Debei, M. M., & Avison, D. (2010)
+A Business Model – What is it actually?
+- Drucker 1954; Magretta 2002, wishtank.org
+Business Model Representations
+- Täuscher & Abdelkafi (2017)
+Business Model Canvas
+- Osterwalder & Pigneur (2010)
+The Magic Triangle: Four elements of a business model, Innovation Potential of Business Model Innovations,
+Business Model Innovation
+- Gassmann et al. (2014) The Business Model Navigator
+Types of IT–Associated Business Models
+- Steininger (2019)
+IT as an Mediator/ IT‐mediated business model
+- Westerman, Bonnet, and McAfee (2014)
+- Hansen & Sia (2015)
+IT as an Outcome/ IT‐bearing business model, IT as an Ubiquity/ Digital business model
+- Westerman, Bonnet, and McAfee (2014)
+Types of Innovation
+- Henderson & Clark, 1990
+Disruptive Innovation
+- (Bower und Christensen 1995; Christensen 2000).
+Disruptive Innovation – Christensen's Criteria
+- Christensen (1997)
+Disruptive Innovations
+- Christensen et al. (2015)
+
+Lec5
+Importance of platform ecosystems
+- 1) Interbrand (2018) 2) LinkedIn (2018)
+Platform from a business perspective – Key Roles
+- Parker et al. (2016), Parker et al. (2017)
+The Digital Platform Ecosystem
+- Hein, A., Schreieck, M., Riasanow, T., Setzke, D. S., Wiesche, M., Böhm, M., & Krcmar, H. (2020). Digital platform ecosystems.
+ Electronic Markets, 30(1), 87–98. doi: https://doi.org/10.1007/s12525-019-00377-4
+Platform ownership
+- Hein, A., et al. (2020)
+Examples of Multi-Sided Markets
+- Eisenmann et al. (2006): Strategies for Two-Sided Markets; Parker et al. (2005): Two-Sided Network Effects: A Theory of Information Product Design: Hyrynsalmi (2014): Letters from the War of Ecosystems
+Multi-sided Market Business Model Characteristics: Network Effects
+- Tiwana (2014)
+Multi-sided Market Business Model Characteristics: Launch Strategies,
+Multi-sided Market Business Model Characteristics: Winner-take-all
+Value Co-Creation
+- Parker et al. (2016)
+Multi-sided Market Business Model Characteristics: Competition Within Platform Ecosystems,
+ Multi-sided Market Business Model Characteristics: Competition Between Platform Ecosystems
+- Tiwana (2014)
+Platform value-creating mechanisms
+- Hein, A., et al. (2020), transactions (Tiwana 2014), innovation (Yoo et al. 2012)
+Generativity:
+“overall capacity to produce unprompted changes driven
+by large, varied, and uncoordinated audiences” (Zittrain
+2005)
+Economies of scale and substitution:
+“Reusing modular and upgradable components in a
+platform instead of designing a system from scratch”
+(Garud and Kumaraswamy 1993)
+Platform Governance in an App Store
+- Tiwana (2014, p. 120)
+Implementing platform governance: Boundary Resources
+- Dal Bianco et al. (2014); Ghazawneh & Henfridsson (2013)
+Digital Platform Ecosystems
+- Hein, A., Schreieck, M., Riasanow, T., Setzke, D. S., Wiesche, M., Böhm, M., & Krcmar, H. (2020). Digital platform ecosystems. Electronic Markets,
+30(1), 87–98. doi: https://doi.org/10.1007/s12525-019-00377-4
+The ecosystem analogy
+- Mens et al (2014); Willis (1997); Jansen et al. (2009)
+Complementor autonomy
+- Hein, A., et al. (2020)
+Example: Ecosystem Change in the Mobility Context
+- Riasanow et al. (2017)
+
+Lec7
+Relationship between IT Governance & IT Contro
+- Barua & Mukhopadhyay (2004)
+Controlling and IT Controlling
+- Gadatsch & Mayer (2014); Krcmar (2015), p. 497
+IT Controlling Framework
+- Krcmar (2015), p. 498
+IT Controlling Functions
+- Krcmar (2015), p. 500ff
+IT Process Model & IT Controlling Functions
+- Gadatsch (2009)
+IT Portfolio Controlling – Life-Cycle
+- Gadatsch & Mayer (2014, p. 126)
+IT Portfolio Controlling – Selection Criteria
+- Gadatsch & Mayer (2014, p.123)
+Balanced Scorecard
+- Kaplan & Norton (1996)
+Balanced IT Scorecard
+- (Krcmar 2015, p. 513; Schmid-Kleemann 2004, p. 147)
+Metrics System
+- Krcmar (2010), p. 553
+Metrics System Example: Economic Value Added
+- Lambert (2008)
+Design of IT Governance
+- Ratzer (2007)
+Control OBjectives for Information and related Technology (COBIT)
+- ISACA (2019)
+
+Lec8
+The reason that we want someone else to do the work for us is that they are experts
+- (vgl. He 2003)
+Reasons for Outsourcing – Client Perspective
+- Bongard (1994), pp. 152
+Risks of Outsourcing – Client Perspective
+- Bongard (1994), pp. 152
+Outsourcing Configuration
+- Leimeister (2009); von Jouanne-Diedrich (2007)
+Financial Dependency Institutional Continuum
+- Adapted from Picot & Maier (1992)
+Degree of Outsourcing, Ownership, and Financial Dependency Types of Sourcing Arrangements
+- Dibbern et al. (2004)
+Sourcing Object Outsourcing Types
+- Weitzel (2006) 
+Sourcing Object Core Competencies to retain in your Company
+- Applegate et al. (554-555)
+Sourcing Object Example: Deutsche Bank & IBM
+- Menke-Südbeck (2003)
+Vendor Configuration Possible Customer-Vendor-Relationship in Outsourcing
+- Bongard (1994), p. 97
+Pricing Models
+- Cullen et al. (2005)
+Outsourcing Location
+- Krcmar (2015), p. 435
+Stage Model of IS Outsourcing – Client Perspective
+- Dibbern et al. (2004)
+Vendor’s Outsourcing Process Model
+- Lee (2008)
+Cloud Computing
+- Böhm et al. (2011)
+Types of Cloud Computing
+- Armbrust et. Al (2009); Briscoe & Marinos (2009)
+Cloud Computing can lead to Complex Outsourcing Relationships
+- Böhm et al. (2010)
+Drivers for Offshoring
+- A.T. Kearney
+Risks of Offshoring: Client Extra Costs
+- Dibbern et al. (2008)
+
+Lec9
+IT Security Objectives
+- Eckert (2009); BSI 2018, ISO/IEC 2018; Rao & Nayak 2014
+Privacy
+- [1] Nissenbaum (2004) [2] DeCew (1997)
+What is the right balance?
+- Adapted from Junginger (2004, p. 281)
+Risk Management Process within Information Mgt
+- Krcmar (2015), p. 532
+Example for Risk Identification: Risk Registers
+- Liu et al. (2010)
+Example for Risk Analysis: Threat Trees
+- Schneier (1999); Eckert (2009)
+Example for Risk Handling: Risk Strategy Lists with Best Practices
+- Nelson (2007)
+Example for Risk Monitoring: Visualizations to track the Volatility of Risks
+- Hoerrmann et al. (2011)
+Risk analysis in IT projects: Three characteristics that influence project risks
+- Applegate et al. (1999)
+
+Lec11
+„In an economy where the only certainty is uncertainty, the one sure
+source of lasting competitive advantage is knowledge.“
+- Nonaka (1991)
+Data – Information – Knowledge – Wisdom
+- Ackoff (1989)
+Alignment of Knowledge and Strategy
+- Zack (1999), p. 136
+What to manage in knowledge management
+- Adapted from Bhatt (2000)
+Business Process as Area of Application and Context
+- Heisig (2005)
+Four Types of Knowledge Conversion
+- Adapted from Rehäuser & Krcmar (1996), p. 34
+Spiral of Organizational Knowledge Creation
+- Nonaka (1994)
+Core Processes of Knowledge Management
+- Adapted from Probst et al. (2010)
+Knowledge Objectives, Knowledge Identification, Knowledge Acquisition, Knowledge Development
+- Probst et al. (2010)
+
+Lec12
+Example: Enterprise Social Networks
+- Grudin (2006), Müller (2007)
+Supporting Concept: Organizational Metaknowledge
+- Leonardi (2014)
+Example: Lessons Learned
+- Lehner (2009), p. 189
+Example: Best Practice Sharing
+- Lehner (2009), p. 190; Davenport & Prusak (1998), p. 169
+Example: Story Telling/ Learning History
+- Lehner (2009), p. 190; 1: Martin et al. (1983)
+Example for Knowledge Conservation: Ontology
+- Adapted from Lehner (2009), p. 198
+Example for Knowledge Assessment: Benchmarking
+- Lehner (2009), pp. 232
+
+
+
+
+
+
+
+
+
+
+
+

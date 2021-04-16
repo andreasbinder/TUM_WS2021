@@ -1,0 +1,128 @@
+Platform:
+- Importance: most top brands & startups have platform ecosystems as core or support
+- business based on enabling value-creating interactions between external producers and consumers
+- Key Roles (exchanging data & feedback):
+	- Producer (of platforms offerings)
+	- Provider & Owner (of Platform)
+	- Consumer
+	
+Digital Platform:
+- markets where user interactions are subject to network effects facilitated by a common platform
+- platform provides open, participative infrastructure
+- sets governance conditions
+- combine and deploy (digital) technologies to coordinate an ecosystem of supply and demand
+- extensible IT artifact that provides core functionality (access via interfaces)
+
+Platform ownership:
+- factor of design & governance of digital platform ecosystems, defines relationships
+- Distribution of power:
+	- Single Owner: single, central owner controls platform ecosystem
+	→ facebook, iOS, SAP cloud (act quickly)
+	- Consortium: group of actors own digital platform
+	→ cloud foundry
+	- Peer-to-Peer community: community (users) governs dig. platform
+	→ blockchain
+
+Multi/ Two-sided Markets
+- enable interactions between endusers
+- includes two independent groups of customers
+- e.g. Credit cards: Consumer credit (Market 1), Issuing Bank (Intermediary), Merchant processing (Merchant processing)
+- e.g. Recruiting Applicants ← Linked in → Employers
+
+Characteristics Multi-sided BM:
+- Network Effects:
+	- Direct/Same-side (increase in usage → increased welfare of same side e.g. telephone)
+	- Indirect/Cross-side (increased usage of one product → increase value of complementary product e.g. app store)
+- Launch Strategies: each side depends on prior existence of the other side(indirect)
+	- Follow-the-rabbit: build on existing success of non-platform “shops” (e.g. amazon’s own book sales)
+	- Piggyback: connect with existing user base from other platform (e.g. PayPal piggybacked on eBay)
+	- Seeding: create value units relevant to set of potential users (e.g. google awarded android app developers)
+- Competition Within Platform Ecosystems
+	- User level
+	- Platform level (btw complementor and platform, e.g. Amazon Marketplace)
+- Competition Between Platform Ecosystems
+	- Platform level: interoperability vs exclusivity (iOS vs Android),
+	- with strong network effects winner-take-all or winner-take-some markets
+	- User level: Single- vs Multihoming (use Netflix & Disney+)
+- Winner-take-all:
+	- supply-side economies of scale
+	- strong network effects
+	- high multihoming
+	- lack of niche
+	- platform offer same services!
+	- e.g. Whatsapp
+	
+Value Co-Creation
+- Without platform: Value creation linear & determined
+- With platform: Value co-creation process continuous follows virtuous cycle (bcNWEffects)
+
+Platform value-creating mechanisms
+- efficient & convenient facilitation of transactions
+	- help complementors and consumers locate, interact and exchange value
+	- acts as an intermediary by directly matching supply to demand
+- provision of affordances making the digital platform a breeding ground for innovation
+	- platform owners offer development tools for complementors
+	- use boundary-resources to co-create value-adding complements
+- Supermodularity:
+	- increased amount of product A makes product B more valuable
+	- A and B are different products (e.g. sell apps → value phone increases)
+- Generativity:
+	- capacity to produce unprompted changes driven by varied audiences
+- Economies of scale and substitution:
+	- Reusing modular components
+- Affordances:
+	- digital infrastructure build upon a modular software-based platform
+	- reconfigure platform to adapt user needs and prompt new technological advances
+	
+Platform Governance App Store: 3 dimensions
+- Decision rights partitioning: provide autonomy
+	- platform owner can transfer decision rights
+	- Platform decision rights: whether owner & app developers make decisions pertaining to platform
+	- App decision rights
+	- 2 classes decision rights: Strategic & Implementation
+- Control portfolio design: ensure integration (control development process of third- parties)
+	- gatekeeping: who and what apps are allowed
+	- process control: incentives to follow prescribed development methods
+	- metrics: incentives based on predefined performance metrics
+	- relational control (informal): norms & values of a platform
+- Pricing Policy: Create Incentives to invest in own app
+	- 4 questions: symmetric or asymmetric, pricing for access or usage, pie-splitting using fixed or sliding scale, app pricing
+	- Asymmetric: subsidize one side, make up losses by increased profit from another
+	- revenue sharing & subsidizing
+	
+Boundary Resources (BR) in Platform Governance
+- Def.: resources that support developers in their effort; BR define interaction
+with platform; BR implement platform governance
+	- Application: Technical resources (e.g. support with Hardware)
+	- Development: Support dev. process (e.g. SDKs)
+	- Social: Control interactions and behavior (e.g. automatic feedback app store)
+	
+Digital Platform Ecosystems
+	- platform owner: implements governance mechanisms
+	- to facilitate value-creating mechanisms
+	- on digital platform
+	- autonomous complementors and consumers
+	
+Ecosystem analogy
+	- reservoir of finite resources
+	- populations controlled by impulses (developer and user communities:
+	variations)
+	- interactions between participating units (shared market)
+	- adaption of individuals and the system
+	- need for balance/adaption (higher diversity support a more stable equilibrium;
+	ecosystem foster other areas when one market segment is obsolete)
+	- dynamics: top-down (one dominant firm), bottom-up (open source)
+	
+Ecosystem Integration
+	- Tight Coupling: mutual dependent elements, responsiveness (to changes)
+	without distinctiveness (extent of differ)
+	- Loose coupling: independent elements, distinctive responsiveness, flexible
+	scalability
+	- Decoupling: Distinctiveness without responsiveness
+	
+Complementor autonomy
+	- degree of freedom for complementors in value co-creation
+	- High: loosely-coupled (contribute to variety & amount)
+	- Low: tightly-coupled (strengthen core value proposition)
+	
+	

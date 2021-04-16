@@ -1,0 +1,113 @@
+Strategic Information Systems (SIS):
+- assure competitive advantage for company (avoid drop)
+- System Categories
+1. Inter-Organizational Systems
+	- connect two partners in value chain (e.g. flixbus)
+	- differentiate by system developer & operator
+2. Value-Added Services
+	- support offering state (order initiation/ processing) & improve
+	customer service/relation (after-sale, additional services to
+	product)
+3. IT for new products and services
+	- develop new products & business areas (e.g. IPhone)
+	- evolutionary (instead of revolutionary)
+4. Electronic markets
+	- enable and merge transactions via digital platforms
+	- revolutionary (e.g. amazon, netflix)
+	
+McFarlan Strategic Grid
+
+- determining impact of information systems on strategy
+- Porters Competitive Forces help with decision making
+- dimensions: operations, strategy
+Factory (operations high, strategy low)
+- Goal: Improve performance of core processes
+Weapons (operations high, strategy high)
+- Goal: Transform Organization or Industry
+Breakthrough (operations low, strategy high)
+- Goal: Identify and launch new ventures
+Support (operations low, strategy low)
+- Goal: Improve local performance 
+
+Adaptability Gap in Digital Business
+- Traditional Business vs Digital Business
+- environment stable dynamic
+- level of competition low high
+- certainty certain uncertain
+- Knowledge utilization creation & innovation
+- Business processes simple & static dynamic & IT-based
+- Ways of doing business limited multiple
+- stakeholders pressure moderate severe
+- Adaptability Gap between Business Strategy & Business Processes no yes
+
+Business Model:
+→ fill gap between Business strategy (highly aggregated) and Business
+process model (operational, detailed) with a business model (= conceptual
+tool of alignment, tactical)
+- Druckers Question: Who is customer, what does he value, and how does an
+organization intend to earn money?
+- Example representation: Business Model Canvas (Key Partners, Key
+activities, Key Resources, Value Proposition, Customer Relationship,
+Channels, Customer Segments, Cost Structure, Revenue Streams)
+
+Magic Triangle:
+- 4 elements of business model ( ~ Drucker)
+- business model is blueprint of how a company creates and captures value
+- WHO are our target customers? → customer
+- WHAT do we offer to customers? → value proposition
+- HOW is the value proposition created? → value chain
+- WHY does it generate profit? → profit mechnism
+
+A business model innovation …
+… creates new logic regarding how a company creates/captures value
+… makes changes in >= 2 of the WHAT, WHO, HOW, and WHY
+
+Types of IT-Associated Business Models (steininger)
+- facilitator: Sale of traditional goods or services
+- mediator: Mediation and physical delivery, sale of traditional goods or services
+- outcome: Sale of hardware or software
+- ubiquity: Completely digitized product or service, digitally sold and delivered
+
+Innovation:
+- new goods/methods/markets/sources of supply/organization of industry
+- idea perceived as new
+- transforms materials into products or services of greater value
+
+Types of Innovation
+- Core Concepts, Linkage between Core Concepts and Components
+- Reinforced
+	- unchanged: incremental innovation
+		- refines and extends an established design
+		- improvement in individual components
+		- underlying core design concepts, and links between them, remain the same
+	- changed: architectural innovation
+		- reconfiguration of an established system
+		- changes only the relationships between existing core design concepts
+		- link existing components in a new way
+- Overturned
+	- unchanged: Modular Innovation
+		- changes only the core design concepts
+		- without changing the product’s architecture
+	- changed: Radical Innovation
+		- establishes a new dominant design
+	- new core components that are linked in a new architecture
+Disruptive Innovation:
+- pushing established technology/ business models out of the market
+- not radical innovation
+- Christensens Criteria → it is not possible to forecast market disruption ex-ante (only indicators)
+	- Historically most valued attributes (underperforms in old dimensions)
+	- Other qualities (superior in dimensions not valued before)
+	- Cost and margin (cheaper)
+	- Simplicity (more convenient)
+	- Interest of main customers (little interest of current leader’s customers)
+	- first customers (situated in niche or emerging markets)
+	- first vendors (high rate of start-ups or companies new to market among innovative companies)
+	- Value chain (different structure)
+	- Market distribution (displace dominant in mainstream market)
+	
+information systems enables corporate strategy
+IT-enabled strategies
+- Strategic Information Systems
+- IT-enabled Business Models and Business Model Innovations
+- IT as disruptive innovation
+- Assessing the importance of IS for strategy

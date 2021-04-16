@@ -1,0 +1,82 @@
+Strategy:
+- plan of action for goal (long & short- term)
+Strategic Management:
+- examining (present/future environments)
+- formulating objectives
+- making, implementing and controlling decisions (on achieving objectives)
+
+IS, IT and IM Strategy
+- IS Strategy: Focuses on the system or business applications of IT and is primarily
+concerned with aligning them with business needs and using them to derive
+strategic benefits
+- IT Strategy: Concerned with the various aspects of the technology such as
+architecture, technical standards, security levels, risk attitudes, and technology
+policies
+- IM Strategy: Concerned with the structures and roles for the management of IS
+and IT, focuses on issues such as the relationship between specialist and users,
+management control, performance measurement processes, management
+responsibilities
+
+Corporate Strategy
+- determine type of business
+- form & management of overall activities
+- Choose: Growth/stability/retrenchment(reduce cost) strategy
+Generic or business unit strategy
+- actions crafted by mgmt for successful performance in one particular line of
+business
+- Choose: Cost leadership/ differentiation/ focus / mixed
+Functional strategy
+- game plan for running major functional activity or process (e.g. research
+unit)
+
+Relationship Informationmgt. Knowledgemgt.
+IM is an important foundation for knowledge management and deals
+systematically with explicit knowledge
+understanding Knowledge Management requires understanding knowledge,
+knowledge process and differentiation from Information & IM
+
+Knowledge Management
+- understanding information flow, implementing learning practices to make explicit
+- approach to use enterprises intellectual assets
+- create/enhance/share intellectual capital
+- knowledge as resource
+→ Knowledge Management deals with all kinds of knowledge, information
+management with some forms of explicit knowledge
+
+Amazon Examle of Context
+Amazon AWS
+- example fit of topics
+- need: faster technology deployment → alignment IT-Systems to needs,
+It-enabled new strategies based on digital platform
+- emerged for asking employees where (not) doing well? (digital leadership)
+- inaccurate forecasting of project time, decoupled parts need to be governed
+(IT-Controlling & Governance)
+- Customers source parts of IT from AWS (IT Sourcing)
+- Knowledge Management (finding right people)
+
+Business trends:
+- digital platforms & ecosystems (value co-creation, monopolies, dependencies,
+changing inter-firm relations)
+- sustainability & social responsibility
+- ubiquity / democratization of digital technology
+- data-driven decision making
+→ Uber, facebook, …(more complex business models centered around consumer)
+
+Organization trends:
+- distributed work & information systems (cloud, APIs, …)
+- digital maturity of organizations & people → besser auskennen, erfahrungen
+- thriving in digital complexity (innovation, strategic agility to respond to
+unpredictable opportunities and threats, resilience in uncertain environments)
+- from functional view to scaling agile (see, understand, live → cross-functional,
+cross-process)
+
+People trends:
+- distributed workspaces (team work, culture)
+- information & work overload
+- AI replacing human tasks
+- data privacy
+- Employee turnover
+
+Technology trends:
+- Gartner’s Hype Cycle: ML, AI, composable enterprise, own identity
+
