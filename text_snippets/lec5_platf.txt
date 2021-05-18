@@ -55,6 +55,7 @@ Characteristics Multi-sided BM:
 Value Co-Creation
 - Without platform: Value creation linear & determined
 - With platform: Value co-creation process continuous follows virtuous cycle (bcNWEffects)
+	- value is created in the connection between user and ecosystem
 
 Platform value-creating mechanisms
 - efficient & convenient facilitation of transactions
@@ -66,13 +67,17 @@ Platform value-creating mechanisms
 - Supermodularity:
 	- increased amount of product A makes product B more valuable
 	- A and B are different products (e.g. sell apps → value phone increases)
+	- about network effects
 - Generativity:
 	- capacity to produce unprompted changes driven by varied audiences
+	- ecosystem builds itself analoguous to real ecosystem
 - Economies of scale and substitution:
 	- Reusing modular components
+	- thus, easier to implement new transactions and innovations
 - Affordances:
 	- digital infrastructure build upon a modular software-based platform
 	- reconfigure platform to adapt user needs and prompt new technological advances
+	- allow developers/ users to do sth
 	
 Platform Governance App Store: 3 dimensions
 - Decision rights partitioning: provide autonomy
@@ -91,8 +96,7 @@ Platform Governance App Store: 3 dimensions
 	- revenue sharing & subsidizing
 	
 Boundary Resources (BR) in Platform Governance
-- Def.: resources that support developers in their effort; BR define interaction
-with platform; BR implement platform governance
+- Def.: resources that support developers in their effort; BR define interaction with platform; BR implement platform governance
 	- Application: Technical resources (e.g. support with Hardware)
 	- Development: Support dev. process (e.g. SDKs)
 	- Social: Control interactions and behavior (e.g. automatic feedback app store)
@@ -105,12 +109,10 @@ Digital Platform Ecosystems
 	
 Ecosystem analogy
 	- reservoir of finite resources
-	- populations controlled by impulses (developer and user communities:
-	variations)
+	- populations controlled by impulses (developer and user communities: variations)
 	- interactions between participating units (shared market)
 	- adaption of individuals and the system
-	- need for balance/adaption (higher diversity support a more stable equilibrium;
-	ecosystem foster other areas when one market segment is obsolete)
+	- need for balance/adaption (higher diversity support a more stable equilibrium; ecosystem foster other areas when one market segment is obsolete)
 	- dynamics: top-down (one dominant firm), bottom-up (open source)
 	
 Ecosystem Integration

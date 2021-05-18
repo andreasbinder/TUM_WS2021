@@ -8,17 +8,15 @@ Risk
 - event results from a particular challenge
 
 Information Security
-- information that companies collect , store, manage and transfer
-- organizational asset
+- information that companies collect , store, manage and transfer as organizational asset
 - adds value to business
 - needs to be protected
 - often held electronically
 - transmitted using electronic means
-→ Growing dependence on information systems, shared networks and distributed
-services (cloud computing)
+→ Growing dependence on information systems, shared networks and distributed services (cloud computing)
 → organizations more vulnerable to security threats
 
-Information Security is the practice of defending information from ...
+Definition Information Security is the practice of defending information from ...
 - … unauthorized access
 - … use
 - … disclosure
@@ -76,8 +74,7 @@ Privacy
 	- decide how and to what extent information is communicated to others
 	
 Impacts and Issues
-As data can be stored and processed in the “Exabyte” level and more connectivity
-and interaction is possible, information is ubiquitous.
+As data can be stored and processed in the “Exabyte” level and more connectivity and interaction is possible, information is ubiquitous.
 
 Threats
 - Internet
@@ -116,7 +113,7 @@ Risk categorization
 	- carefully evaluate project plan, business and technical environment of project
 	- inspect other reliable sources
 - predictable risks:
-	- extrapolated/hochrechnen from past project experiences (past turnover)
+	- extrapolated from past project experiences (past turnover)
 - unpredictable risks:
 	- can and do occur
 	- extremely difficult to identify in advance (zero-day attack)
@@ -131,8 +128,7 @@ Risk Strategies
 	- contingency plan to handle unavoidable risks in a controlled manner
 → find balance between risk occuring and the maximum bearable damage
 → pareto principle: optimize situation without worsen any other component
-→ diminishing marginal benefits: the higher the level of security every additional
-effort only increases security a little bit more
+→ diminishing marginal benefits: the higher the level of security every additional effort only increases security a little bit more
 
 Risk Identification
 - transfers uncertainties in a set of clearly defined risks
@@ -146,6 +142,7 @@ Risk Handling
 - evaluates, plans, and executes strategies for the analyzed risk
 - tools: risk strategy list, decision tables/trees, cause-and-effect analysis
 exp: risk strategy list
+Nelson Best Practices
 avoid …
 	- … poor estimating, scheduling & planning
 	- … ineffective stakeholder management

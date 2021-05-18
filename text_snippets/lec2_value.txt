@@ -39,6 +39,19 @@ Contextual Factors influencing Business Value of IT
 - competitive environment: switching costs, industry characteristics, needs and demands, revenue attractiveness, trading partner resources & business processes
 - macro environment: global market conditions, capital markets, country characteristics, mega trends
 
+IT – Benefit mechanics
+- IT causes IT risk
+- IT improves analysis of business risk
+- IT risk affects business risk
+- corporate strategy influences business risk and vice versa
+- corporate strategy aligns business model
+- business risk compromises business model (strategically) 
+- business risk compromises business processes (operationally) and vice versa
+- business model defines business processes
+- IT influences Business model and vice versa
+- IT enables business processes
+- business processes provide value
+
 Consequences of IT/IS Value Ambiguity
 - cannot articulate value → tend to focus on cost
 - cost of IT appears: substantial, never-ending, not well managed

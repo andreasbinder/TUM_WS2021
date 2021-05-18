@@ -1,0 +1,94 @@
+Introduction
+1. Recap
+	1. Data
+	2. Information
+	3. Knowledge
+2. Three parts of IMKM
+	1. Information systems strategy
+	2. Information management
+	3. Knowledge management
+3. Why revisit these concepts from a strategy and management perspective?
+
+Business Value of IT
+1. Discussion in Researchand Basics
+2. Measuring Business Value of IT
+	1. Frameworks
+	2. Methods
+	
+Strategy and Business IT Alignment
+1. Strategy
+	1. Market-based View
+	2. Resource-based View
+2. Business-IT Alignment
+	1. Corporate Strategy and Information Systems
+	2. Strategic Alignment Model
+	3. Multi-Business Organizations
+	
+IT-enabled Strategies
+1. Components of IT-enabled Strategies
+	1. Strategic Information Systems
+	2. Business Model
+	3. Business Model Innovation
+	4. Types of IT-enabled Business Models
+2. Innovations
+	1. Types
+	2. Disruptive Innovations
+	
+Digital Platforms
+1. Overview
+	1. Key Elements of Digital Platform Ecosystems
+	2. Multi-sided Market Business Model Characteristics 
+2. Value-creating Mechanisms 
+	1. Value Creation in Digital Platform Ecosystem
+	2. Platform Governance
+3. Ecosystem
+	1. Complementor Autonomy
+	2. E3 Value Modelling
+
+IT Controlling & IT Governance
+1. IT Controlling
+	1. Objectives and Functions
+	2. Methods
+2. IT Governance
+	1. Definition and relation to Corporate Governance
+	2. COBIT 2019
+	
+IT Sourcing and IT Offshoring
+1. Sourcing
+	1. Overview & Definition
+	2. Reasons & Risks
+	3. Configurations
+	4. Processes
+2. Special forms of Sourcing
+	1. Cloud Computing
+	2. Off-shoring Overview & Drivers
+	3. Risks: Client Extra Costs
+	
+Information Security, Privacy and Risk Management
+1. Information Security
+2. Privacy
+3. Risk Management
+	1. Fundamentals
+	2. Risk Management Process
+	3. IT Projects
+	
+Basics and Tools of Knowledge Management
+1. Knowledge Management
+	1. Recap: Definition of Knowledge
+	2. Recap: Types of Knowledge
+	3. Definition of Knowledge Management
+	4. Knowledge Management & Strategy
+	5. Knowledge Management Strategies
+2. Core Processes of Knowledge Management
+	1. Knowledge Objectives
+	2. Knowledge Identification
+	3. Knowledge Acquisition
+	4. Knowledge Development
+	
+Basics and Tools of Knowledge Management
+1. Core Processes of Knowledge Management
+	1. Knowledge Sharing/ Distribution
+		1. Organizational Metaknowledge
+	2. Knowledge Usage
+	3. Knowledge Conservation
+	4. Knowledge Assessment

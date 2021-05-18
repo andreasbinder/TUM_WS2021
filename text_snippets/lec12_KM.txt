@@ -6,15 +6,13 @@ Knowledge Sharing and Distribution
 - approaches
 	- room for exchange
 	- WIKIs (edit any page, simple mark-up language, used collaboratively)
-	- Enterprise Social Networks (communication, collaboration, networking)
-	e.g. slack
-	→ overcome obstacles (digital objects difficult to find & access, identify
-	people who can help, make invisible communication visible)
+	- Enterprise Social Networks (communication, collaboration, networking) e.g. slack
+	→ overcome obstacles (digital objects difficult to find & access, identify people who can help, make invisible communication visible)
 	- (Reverse-) Mentoring
 Barriers of Effective Knowledge Transfer
 - Short in time
 - Low information about knowledge demand of others
--Missing awareness of the importance of knowledge transfer
+- Missing awareness of the importance of knowledge transfer
 - Attitude: “Knowledge is power” and “Shared knowledge weakens own position”
 - Missing transparency about knowledge bearers and knowledge sources
 - High specialization of employees
@@ -24,15 +22,14 @@ Barriers of Effective Knowledge Transfer
 - Hierarchical structures
 - Inadequate information infrastructure
 - Financial structure
+
 Supporting Concept: Organizational Metaknowledge
 “Organizational metaknowledge refers to knowledge about who knows
 what and who knows whom within the organization.“
 • Enterprise social networks can make invisible communication visible.
 • Visible communication improves metaknowledge with two mechanisms
-	– message transparency: Seeing coworkers’
-	messages helps to infer about others’ knowledge.
-	– network translucence: Seeing the structure of coworkers’ communication
-	networks helps to infer about who coworkers talk with somewhat regularly.
+	– message transparency: Seeing coworkers’ messages helps to infer about others’ knowledge.
+	– network translucence: Seeing the structure of coworkers’ communication networks helps to infer about who coworkers talk with somewhat regularly.
 
 Knowledge usage
 - make sure knowledge is actually used
@@ -49,21 +46,15 @@ examples:
 	- contra: documenting effort, requires willingness of employees to share and use knowledge, plan in time (management)
 	- exp: Xerox
 - best practice sharing
-	- document best possible solution (efficiency, effectiveness) to a given
-	problem
+	- document best possible solution (efficiency, effectiveness) to a given problem
 	- replace existing processes
-	- pro: increase efficiency and effectiveness, solutions are proven in
-	practice
-	- contra: lack of generalizability (too specific to an organization), too
-	strong focus may be limiting
+	- pro: increase efficiency and effectiveness, solutions are proven in practice
+	- contra: lack of generalizability (too specific to an organization), too strong focus may be limiting
 - storytelling
 	- create and distribute stories (learning histories)
 	- common: how will organizations deal with obstacles?; How will boss react to mistakes?
-	- pro: sets knowledge into a context, well-suited for complex issues,
-	perfect for human beings, more flexible than lessons learned or best
-	practices
-	- contra: highly time-consuming, high personnel effort to create stories,
-	no short-term benefits
+	- pro: sets knowledge into a context, well-suited for complex issues, perfect for human beings, more flexible than lessons learned or best practices
+	- contra: highly time-consuming, high personnel effort to create stories, no short-term benefits
 	
 Knowledge Conservation
 - guard myself against knowledge losses
@@ -76,8 +67,7 @@ Negative Reinforcement Cycle of Knowledge Losses
 - Trust in contents decreases
 - Usage of knowledge base decreases
 examples:
-- knowledge repositories = depositories for explicit knowledge in which knowledge units (KU) are registered,
- administered and made accessible
+- knowledge repositories = repositories for explicit knowledge in which knowledge units (KU) are registered, administered and made accessible
 - ontology: concepts set into relation (vehicle-water-air)
 
 Knowledge Assessment
@@ -87,9 +77,7 @@ Knowledge Assessment
 - without measure KM would NOT be efficient → cycle incomplete
 - examples:
 	- balanced scorecard
-	- benchmarking: systematic comparison products, services or processes
-	to identify strengths and weaknesses, forms (internal, competitive, functional,
-	generic)
+	- benchmarking: systematic comparison products, services or processes to identify strengths and weaknesses, forms (internal, competitive, functional, generic)
 	Examples
 	- KM Performance Framework (de Gooijer, 2000): BSC + behavioural sci.
 	- Process-oriented Performance Measurement (PPM)

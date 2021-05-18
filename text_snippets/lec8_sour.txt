@@ -11,27 +11,19 @@ Outsourcing
 
 Client Perspective - Reasons
 - Cost: transparency (pay per use); cost reduction
-- Personnel: avoid lack of qualified IT-employees; more independent from
-single employees
-- Risks: transfer risk to outsourcing vendor; shift of risks from complexity in
-application and technology dynamics
+- Personnel: avoid lack of qualified IT-employees; more independent from single employees
+- Risks: transfer risk to outsourcing vendor; shift of risks from complexity in application and technology dynamics
 - Concentration: IT focus on business value and strategic information systems
-- Finances: from fixed to variable costs (increased liquidity); avoid high
-investments
-- Knowledge: access specialized knowledge & novel technology; more
-discipline in knowledge conservation (documentation)
+- Finances: from fixed to variable costs (increased liquidity); avoid high investments
+- Knowledge: access specialized knowledge & novel technology; more discipline in knowledge conservation (documentation)
 
 Risk Client
-- Cost: switching cost; increased coordination & communication cost; no cost
-reduction as expected; lack of transparency; impossible to control vendors’
-prices
+- Cost: switching cost; increased coordination & communication cost; no cost reduction as expected; lack of transparency; impossible to control vendors’ prices
 - Personnel: loss of key employees & knowledge; motivation loss of remaining IT-employees; legal issues
-- Knowledge: know-how transfer; competitive advantage; increasing 
-outsourcing results in loss of IT-competence and know-how
+- Knowledge: know-how transfer; competitive advantage; increasing outsourcing results in loss of IT-competence and know-how
 - Technology: fixed commitment to vendor’s technology (vendor lock-in); danger of too much standardization
 - Privacy: maintain privacy of confidential data dependent on vendor
-- Return to own IT: might not be possible (long-term commitment of contracts);
-rebuild know-how and whole IT department
+- Return to own IT: might not be possible (long-term commitment of contracts); rebuild know-how and whole IT department
 
 Vendor Perspective
 - higher quality services can be provided at lower cost (maintain expertise in technologies)
@@ -40,12 +32,9 @@ Chronology
 • Backsourcing
 	– Bring previously outsourced jobs back to be performed internally
 • Insourcing
-	– Assign a project/ found a fully owned
-	subsidiary within a company rather
-	hiring a third party
+	– Assign a project/ found a fully owned	subsidiary within a company rather	hiring a third party
 • Outsourcing
-	– Individual internal tasks are handed over to one or more other companies for
-	a defined period of time on the basis of a contractual agreement
+	– Individual internal tasks are handed over to one or more other companies for a defined period of time on the basis of a contractual agreement
 
 Sourcing Object
 - ca. 1960-80: IT Infrastructure Outsourcing (ITO) → Hardware/Software
@@ -69,30 +58,22 @@ Pricing
 - Fixed-Price
 	- service priced with a flat charge (lump sum)
 	- Pro: easy to budget and control costs
-	- Contra: only feasible if costs are easy to forecast; higher costs; risk for
-	conflicts (contract); additional services charged separately
+	- Contra: only feasible if costs are easy to forecast; higher costs; risk for conflicts (contract); additional services charged separately
 	- e.g. 2.000.000€ for running call center
 - Cost-based
 	- service provider bills cost (Time & Material) + profit margin
-	- Pro: beneficial if demand varies and if service delivery costs are
-	difficult to forecast
-	- Contra: high controlling costs to ensure cost-efficient work; important
-	to know service provider costs
+	- Pro: beneficial if demand varies and if service delivery costs are difficult to forecast
+	- Contra: high controlling costs to ensure cost-efficient work; important to know service provider costs
 	- e.g. service cost + 5% profit margin / + 1.000.000€ profit
 - Transaction-based
 	- service fee per transaction or unit
-	- Pro: flexibility regarding demand variance; possibility for volume
-	discounts; cost transparency and accountability (user, SBU)
-	- Contra: demand forecast to manage costs; potentially infinite resource
-	availability
+	- Pro: flexibility regarding demand variance; possibility for volume discounts; cost transparency and accountability (user, SBU)
+	- Contra: demand forecast to manage costs; potentially infinite resource availability
 	- e.g. 5€ per call to call center
 - Performance-based
 	- pricing based on pre-agreed business outcome (fixed+variable)
-	- Pro: encourages collaboration and creative problem-solving; affords
-	vendor greater freedom in achieving the predefined results
-	- Contra: hard to determine performance (external factors); hard to find
-	service vendors for high objectives; high downside risk of
-	over-ambitious solutions (risk-sharing)
+	- Pro: encourages collaboration and creative problem-solving; affords vendor greater freedom in achieving the predefined results
+	- Contra: hard to determine performance (external factors); hard to find service vendors for high objectives; high downside risk of over-ambitious solutions (risk-sharing)
 	- e.g. 5.000.000€ + 30% of costs saving to status quo
 	
 Location
@@ -114,17 +95,34 @@ Phase 2: implementation
 	
 Vendor Perspective - Process Model
 Discovery
-- development market opportunities
+- development market opportunities 
+- receive and analyze RFI
+- conduct initial feasibility study
+- develop business strategy
 Definition
 - form formal project team
 - define scope of work
+- study customer's situation and systems
+- do benchmarking
+- write and submit RFP 
 Confirmation
+- sign Memorandum of Understanding
 - define negotiation strategy
 - prepare performance measures
+- do negotiation
+- develop contract sheet
+- make a contract
 Transition
-- develop transition phase
+- develop transition plan
+- define transition objects
+- decide transition method and schedule
+- transfer the selected assets
+- set up working environment for outsourcing
 Execution and Management 
 - execute outsourcing service
+- measure performance and customer satisfaction
+- propose alternatives for improvement
+- improve processes
 
 Cloud Computing
 - IT deployment model
@@ -141,24 +139,25 @@ Types
 → Cloud Computing can lead to complex outsourcing relationships
 
 Offshoring - Outsourcing
-Definition 
+Offsh. Definition 
 - getting work done in a different country/continent
+Outsour. Definition 
 - contracting work out to an external organization
-Risks 
+Offshor. Risks 
 - transfer jobs to other countries
 - geopolitical
 - language differences
-+ availability of skilled
-people (global talent pool)
+Offshor. Benefits
++ availability of skilled people (global talent pool)
 + getting work done faster
 + specialized skills
+Outsour. Risks
 - poor communication
-- misaligned interests of
-clients and vendors
+- misaligned interests ofclients and vendors
 - reliance on third parties
-- lack of in-house knowledge
-(critical business operations)
-Benefits + lower costs
+- lack of in-house knowledge (critical business operations)
+Outsour. Benefits 
++ lower costs
 + cost efficiencies
 + labor flexibility
 

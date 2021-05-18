@@ -1,9 +1,7 @@
-“In an economy where the only certainty is uncertainty, the one sure source of lasting
-competitive advantage is knowledge!”
+“In an economy where the only certainty is uncertainty, the one sure source of lasting competitive advantage is knowledge!”
 
 Knowledge economy
-- organizational performance dependent on the production, diffusion, and use
-of knowledge.
+- organizational performance dependent on the production, diffusion, and use of knowledge.
 Knowledge-based firm theory
 - knowledge is the major source of competitive advantage of a firm
 
@@ -38,12 +36,9 @@ Alignment of Knowledge and Strategy
 - keep knowledge gap minimal
 
 What to manage in KM
-- 70% People: attitudes, sharing, innovation, team work, motivation,
-organization, communities
-- 20% Process: KM maps, workflows, integration, best practices, business
-intelligence, standards
-- 10% Technology: data stores, networks, internet, data mining & analysis,
-decision tools, automation
+- 70% People: attitudes, sharing, innovation, team work, motivation, organization, communities
+- 20% Process: KM maps, workflows, integration, best practices, business intelligence, standards
+- 10% Technology: data stores, networks, internet, data mining & analysis, decision tools, automation
 → Learning
 
 Business Process as area of Application
@@ -54,10 +49,10 @@ Strategies for KM:
 - Communication (between groups) & Codification
 
 Four Types of Knowledge Conversion
-- Socialisation (experienced knowledge) tacit -> tacit
-- Externalization (conceptual knowledge) tacit -> explicit
-- Internalisation (operational knowledge) explicit -> tacit
-- Combination (systemic knowledge) explicit -> explicit
+- Socialisation (experienced knowledge) tacit -> tacit: people are exchanging knowledge
+- Externalization (conceptual knowledge) tacit -> explicit: people sit down and create wiki entry based on their personal tacit knowledge
+- Internalisation (operational knowledge) explicit -> tacit: people are reading externalized wiki entry and apply that knowledge, making that knowledge tacit and richer through adding their experience resultung from the application of the explicit knowledge
+- Combination (systemic knowledge) explicit -> explicit: people combine multiple wikie entries to a condensed one
 
 Tacit knowledge (~ 90%: Eisberg unter Wasser)
 - knowledge extremely difficult to make explicit (implied)
@@ -71,8 +66,7 @@ Explicit knowledge (~ 10%: Spitze vom Eisberg)
 - codified/leaky knowledge
 
 Spiral of Organizational Knowledge Creation
-- multiply knowledge by transferring to others through externalization &
-internalization via combination & sozialization
+- multiply knowledge by transferring to others through externalization & internalization via combination & sozialization
 - info might get lost
 
 Core Processes of Knowledge Management

@@ -4,14 +4,24 @@ Market-Based View (MBV) - Porter’s Five Forces
 - customer (bargaining power)
 - substitute products/ services
 - competition within market
-Implications
+basic idea
 - companies search for attractive markets and position yourself within
 competition: choose generic strategy, influence direct market surroundings
 - Starting point: objectives that should be reached
-- “Structure follows strategy”: companies’ organizational structure should
-follow the targets
+- “Structure follows strategy”: companies’ organizational structure should follow the targets
 - emphasize the role of external factors (attractiveness of industry, competitive
 forces) for business success
+limitations
+- Too General - only a starting point prior to deeper investigation
+- Better suited for static firms and less complex firms
+- Not suitable for non-profit organizations
+- Bias perspective on the industry and/or lack of training or research can jeopardize integrity of the analysis
+- The model lacks quantitative aspect as importance cannot be determined (quantitative facts can however be included)
+assumptions
+- resources are homogeneous and perfectly mobile
+- company as black box
+- attractiveness of an industry (forces) + positioning within the industry (strategies)
+
 
 Cost Leadership: striving to be the low-cost producer in an industry
 - effective if …
@@ -86,8 +96,28 @@ plans are supported by the IS mission, objectives, and plans
 - Henderson: Alignment is the degree of fit and integration among business strategy, IT
 strategy, business infrastructure, and IT infrastructure.
 
+Business IT alignment (own notes)
+- improves the business 
+	- better allocation of resources, streamlines processes, improves your entire supply chain
+	- earning a competitive advantage
+	- eventually more profit
+- plans for investing in additional IT capabilities have to be geared towards improving business value
+-> IT must be an integral part in every step of the business strategy
+fit vs alignment
+- alignment strategic
+- fit operational
+
+
+Relationship Corporate Strategy & IS
+- Corporate strategy aligns Information Systems
+- Information Systems enable Corporate Strategy
+
 Strategic Alignment Model
-- external
+integration: how well does it support business
+fit: subdomain of alignment
+linkage: corporate strategy has direct impact on internal IT 
+automation: enable automation of organizational infrastructure
+- external (competition against other firms)
 	- business strategy: Business Scope, Distinctive Competencies, Business Governance
 	- IT strategy: Technology Scope, Systemic Competencies, I/T Governance
 - internal	

@@ -94,6 +94,7 @@ Types of Innovation
 Disruptive Innovation:
 - pushing established technology/ business models out of the market
 - not radical innovation
+- incumbent's sustaining trajectory: oversupply mainstream market, ignore lower end 
 - Christensens Criteria → it is not possible to forecast market disruption ex-ante (only indicators)
 	- Historically most valued attributes (underperforms in old dimensions)
 	- Other qualities (superior in dimensions not valued before)
@@ -105,6 +106,7 @@ Disruptive Innovation:
 	- Value chain (different structure)
 	- Market distribution (displace dominant in mainstream market)
 	
+
 information systems enables corporate strategy
 IT-enabled strategies
 - Strategic Information Systems
